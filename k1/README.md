@@ -124,7 +124,7 @@
 - Marketplace Service
 - Assignment
 
-## 18. Day 17 (Demo & Beer)
+## 17. Day 17 (Demo & Beer)
 
 - Demo day
 - Beer
