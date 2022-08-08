@@ -168,6 +168,7 @@
 # Thắc mắc và đăng kí
 
 - Thắc mắc:
-  - Github issue
+  - Github issues: https://github.com/dominhhai/aws-training/issues
+  - Github discussions: https://github.com/dominhhai/aws-training/discussions
   - Facebook: `@dominhai`
 - Link đăng kí học: https://forms.gle/W34HSpRJuEtuKBCQ9
