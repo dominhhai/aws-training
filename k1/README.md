@@ -26,6 +26,8 @@
 - Introduction to AWS
 - AWS Pricing model
 - Setup account
+- AWS Console
+- Python API
 
 ## 2. Day 2 (Computing Service)
 
