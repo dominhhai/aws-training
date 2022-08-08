@@ -149,6 +149,7 @@
 
 - Gitlab CI
 - Github Actions
+- Code Pipeline
 - Assignment
 
 ## 22. Day 22 (CI/CD)
