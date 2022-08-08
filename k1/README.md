@@ -8,7 +8,7 @@
   - Duyệt CV
   - Phỏng vấn ( có code test )
 - Giao tiếp và chữa bài tập
-  - Slack
+  - Slack: [join here](https://join.slack.com/t/awspionero/shared_invite/zt-1duh0f4j9-~upEGTZrLqDOKOoJMdK~Sw)
   - Github
 - Phương tiện
   - Tự chuẩn bị máy tính cá nhân
