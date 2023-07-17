@@ -1,7 +1,7 @@
 # Thời gian và hình thức học
 
 - Offline 8:00 thứ 2 hàng tuần
-- Bắt đầu từ 24/7/2022
+- Bắt đầu từ 24/7/2023
 - Địa điểm: công ty Pionero
 - Giao tiếp và chữa bài tập
   - Slack: [join here](https://join.slack.com/t/pionero-training/shared_invite/zt-1z9mfvb45-aThHfIHnfJIsMt3iusbSWw)
